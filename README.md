@@ -11,7 +11,7 @@ In the dynamic world of mobile applications, the Apple App Store stands as a vib
 
 **Dataset**
 
-The source of the dataset is from Kaggle. For this project, I utilized datasets from a teacher's google drive, where the orignal dataset is divided into 4 smaller portions, allowing me to work with them in an SQLite online environment due to the size limit. 
+The source of the dataset is from [Kaggle](https://www.kaggle.com/datasets/gauthamp10/apple-appstore-apps). For this project, I utilized datasets from a teacher's [google drive](https://drive.google.com/drive/folders/14O9xB8N1gXN_67ouphImQkvpzyitmTfR), where the orignal dataset is divided into 4 smaller portions, allowing me to work with them in an SQLite online environment due to the size limit. 
 
  
 
