@@ -34,7 +34,7 @@ Apps supporting between 10 and 30 languages tend to have the highest average rat
 
 Catalogs, Finance, and Book apps exhibit the lowest average ratings with scores of 2.1, 2.4, and 2.5 respectively. This implies potential opportunities for gaining market share by enhancing the quality of these apps. ![low_genre](./low_rating_genre.png)
 
-A positive correlation exists between description length and ratings. This suggests that users appreciate well-described apps and have reasonable expectations.
+A positive correlation exists between description length and ratings. This suggests that users appreciate well-described apps and have reasonable expectations. ![length_description](./length_description.png)
 
 The Games and Entertainment categories feature a higher volume of apps, indicating a relatively competitive market. ![app_genre](./no_app_per_genre.png)
 
